@@ -2,3 +2,4 @@ Coordinates in p5 start from an <span style="color: #0faeb0; font-weight: bold;"
 
 ![An animated gif showing a ellipse moving across the canvas. It's current x and y coordinates are displayed as it moves.](images/coords_animation.gif)
 
+
