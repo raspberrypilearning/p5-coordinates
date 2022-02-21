@@ -1,3 +1,3 @@
-Coordinates in p5 start from an <span style="color: #0faeb0; font-weight: bold;"> origin point (0,0) </span> in the top-left of the screen. This top-left positioning of x = 0 and y = 0 is commonly used when programming apps and games. If you have used Scratch or plotted charts on paper you might be used to seeing x = 0 and y = 0 in the centre.
+p5の座標は、画面の左上にある<span style="color: #0faeb0; font-weight: bold;">原点(0,0)</span>から始まります。 この左上をx = 0、y = 0とする位置指定方法は、アプリやゲームをプログラミングするときによく使われます。 Scratchを使ったり紙にグラフを書いたことがあれば、中央をx = 0、y = 0とすることに慣れているかもしれません。
 
-![An animated gif showing a ellipse moving across the canvas. It's current x and y coordinates are displayed as it moves.](images/coords_animation.gif)
+![楕円がキャンバス上を移動する様子を示すアニメーションGIF。 移動するにつれ、現在のx座標とy座標が表示されます。](images/coords_animation.gif)
