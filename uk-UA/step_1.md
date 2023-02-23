@@ -1,3 +1,3 @@
-Coordinates in p5 start from an <span style="color: #0faeb0; font-weight: bold;"> origin point (0,0) </span> in the top-left of the screen. This top-left positioning of x = 0 and y = 0 is commonly used when programming apps and games. If you have used Scratch or plotted charts on paper you might be used to seeing x = 0 and y = 0 in the centre.
+Координати в p5 починаються з <span style="color: #0faeb0; font-weight: bold;"> точки початку (0,0) </span> - з верхнього лівого кута екрана. Ця верхня ліва точка x = 0 та y = 0 використовується в більшості випадків при програмуванні додатків та ігор. Якщо ти використовував(-ла) Scratch або креслив(-ла) графіки на папері, можливо, тобі знайоме позначення x = 0 та y = 0 у центрі.
 
-![An animated gif showing a ellipse moving across the canvas. It's current x and y coordinates are displayed as it moves.](images/coords_animation.gif)
+![Анімована гіфка, яка показує овал, що рухається по полотну. Під час його руху відображаються актуальні координати по x та y.](images/coords_animation.gif)
