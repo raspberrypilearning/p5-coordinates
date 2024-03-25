@@ -1,0 +1,3 @@
+Koordinaten in p5 beginnen an einem <span style="color: #0faeb0; font-weight: bold;"> Ursprungspunkt (0,0) </span> oben links auf dem Bildschirm. Diese Positionierung von x = 0 und y = 0 oben links wird häufig beim Programmieren von Apps und Spielen verwendet. Wenn Du Scratch-Diagramme verwendest oder Diagramme auf Papier gezeichnet hast, bist Du möglicherweise daran gewöhnt, x = 0 und y = 0 in der Mitte zu sehen.
+
+![Ein animiertes GIF, das eine Ellipse zeigt, die sich über die Leinwand bewegt. Während der Bewegung werden die aktuellen X- und Y-Koordinaten angezeigt.](images/coords_animation.gif)
